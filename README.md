@@ -6,8 +6,7 @@
 
 ## ![logo](icone_desc.jpg)  Description
 
-[EN]Enter one number of French department and the information appears!
-[FR]Entrez une numéro de département francais et les renseignements apparaissent!
+...
 
 ### Prerequisites
 
@@ -22,13 +21,6 @@ Clone this repository
 ```
 Git clone : https://github.com/LSemakdji/WebServicesDemo.git
 ```
-
-
-## ![logo](usages.png)Usage
-
-*
-*
-*
 
 
 
